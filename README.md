@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://drive.google.com/file/d/1dB9BUNOHk9F0Q1h_WgUr_GKKIVGtkIka/view?usp=sharing' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://drive.google.com/uc?export=view&id=1wqyaf3JbYzNYyd5Y3R1bCYtisns0ClZq' title='Video Demo' width='' alt='Video Demo' />
 
 ## Notes
 
